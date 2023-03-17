@@ -1,0 +1,4 @@
+banana;
+arroz;
+feijão;
+cebola;
